@@ -2,3 +2,6 @@ Hi,
 Task: 1:
 I need you to create a API which takes the input from the search box/ input box and give us some results.
 So, that we can filter it out the top 2 results and show it in the frontend.
+
+Task 2: 
+Let's develop the clean dashboard using React hooks and get the results of api. 
